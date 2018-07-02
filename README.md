@@ -9,4 +9,4 @@ For help getting started with Flutter, view the online
 
 ## Screens
 
-[preview](../master/preview_images/nav_drawer_preview.png)
+![preview](../master/preview_images/nav_drawer_preview.png)
